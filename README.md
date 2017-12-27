@@ -1,5 +1,5 @@
 ## Pokemon Medical Center Project
-What if Pokémon center had their own website?<br>
+What if Pokémon center had their own website?<br> 
 I decided that it is a great idea to creat a visually appealing website as a tribute to Pokémon universe.
 
 ![31307074-52bf2b3c-ab65-11e7-96d2-5c732362c8aa](https://user-images.githubusercontent.com/25347909/31519667-c554bfc8-afab-11e7-9295-ed3e05bbb3c2.jpg)
